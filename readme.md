@@ -18,7 +18,7 @@ A Python-based classifier for identifying traffic signs using deep learning.
 2. **Initialize and activate a virtual environment**
    ```bash
    python3 -m venv .venv
-   ./.venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ./.venv/bin/activate  # On Windows use `.\.venv\Scripts\activate`
    ```
 
 3. **Install dependencies**
